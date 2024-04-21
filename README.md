@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi👋, I'm Ravi Baraskar  
+##Lazyness, Impatience & Hubris.
 
-<!--
-**RaviBar/RaviBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-I am pursuing my Bachelors in Computer Science & Engineering.
+-🌱 I’m currently learning DSA, mern-stack.
+📫 You can reach me at ravibaraskar108@gmail.com
+- 🔭 I’m currently working on React.
+- 💬 Ask me about React, java, javascript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  Skills:
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
