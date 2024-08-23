@@ -1,10 +1,10 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Ravi
 ## Lazyness, Impatience & Hubris.
 <p align="center">
-<a href="https://x.com/ravibaraskar007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravibar" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ravi-baraskar-ab819b232" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravibar" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/_ravi_baraskar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravibar" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/ravi_102" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ravi_102" height="40" width="30" /></a>&nbsp;
+<a href="https://x.com/ravibaraskar007" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="ravibar" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ravi-baraskar-ab819b232" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="ravibar" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/_ravi_baraskar" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="ravibar" height="30" width="30" /></a>&nbsp;
+<a href="http://discord.com/users/ravi_102" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="ravi_102" height="40" width="30" /></a>&nbsp;
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
@@ -28,7 +28,7 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="75" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
@@ -36,7 +36,7 @@
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/postman/postman.svg" alt="postman" width="60" height="50"/>
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="55"/>
