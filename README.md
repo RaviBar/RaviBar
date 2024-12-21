@@ -10,15 +10,13 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I am pursuing my Bachelors in Computer Science & Engineering. I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning, and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+- 🏦 I am pursuing my Bachelors in Computer Science & Engineering. I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning, and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 - 🧑‍💻 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. You'll find me watching tech-related YouTube videos when I'm not in code, fueling my curiosity.
   
 - 🛠 &nbsp; I’m currently working with Next.js, JS, TS, AWS, etc.
 - 🚀 &nbsp; I also have a knack for competitive coding and Open Source.
-- 👯 &nbsp;  I love playing chess ♟. So if you are up for a game send me a request at RaviBar.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 👾 &nbsp;  I love playing chess ♟. So if you are up for a game send me a request at RaviBar.
 - 📫 &nbsp; You can reach me at ravibaraskar108@gmail.com
-- 💬 &nbsp; Ask me about React, java, and javascript.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 ### Languages/Frameworks/Tools:
 <p align="center">
